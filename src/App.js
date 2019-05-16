@@ -16,7 +16,6 @@ class App extends Component {
         <div className = "container">
           <Switch>
             <Route exact path = "/" Component = {Index}/>
-
           </Switch>
         </div>
       </React.Fragment>
