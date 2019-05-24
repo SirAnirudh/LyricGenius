@@ -4,7 +4,10 @@ class Tracks extends Component {
   render() {
     return (
       <div>
-          <h1>Tracks</h1>
+          <h1>Tracksp</h1>
+          <div>
+            <h3> Music </h3>  
+          </div> 
         
       </div>
     )
