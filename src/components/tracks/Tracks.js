@@ -4,7 +4,7 @@ class Tracks extends Component {
   render() {
     return (
       <div>
-          <h1>Tracks New Branch</h1>
+          <h1>Song Tracks</h1>
         
       </div>
     )
